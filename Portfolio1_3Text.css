@@ -1,0 +1,129 @@
+.portfolio-banner3 {
+    font-family: 'ailerons';
+    margin-top: 20px;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+    text-decoration: underline;
+    color: #00ffff;
+    text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 30px #00ffff;
+}
+
+.github-link {
+    font-family: 'ailerons';
+    display: block;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    float: right;
+    clear: right;
+    border-color: white;
+    border-style: solid;
+    border-width: 5px;
+    padding-left: 70px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+.main-image3 {
+    width: 50px;
+    display: inline-block;
+    margin-right: 700px;
+    margin-left: 20px;
+    border-color: white;
+    border-width: 5px;
+    
+}
+
+.projects-inworks {
+    font-family: 'ailerons';
+    display: block;
+    float: right;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 5px;
+    border-color: white;
+    border-style: solid;
+    border-width: 5px;
+    padding-left: 50px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    width: 400px;
+    font-size: 20px;
+    color: white;
+    clear: right;
+}
+
+
+.finished-header{
+    font-family: 'ailerons';
+    padding-top: 10px;
+    font-size: 35px;
+    font-style: italic;
+    text-decoration: underline;
+    color: white;
+}
+
+.projects-list {
+    font-family: 'ailerons';
+    padding-top: 8px;
+    margin-top: 8px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: white;
+}
+
+.span-calculator {
+    cursor: pointer;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: white;
+}
+
+.span-calculator:hover {
+    text-decoration: underline;
+}
+
+.span-adventuregame {
+    cursor: pointer;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: white;
+}
+
+.span-adventuregame:hover {
+    text-decoration: underline;
+}
+
+.span-chatbot {
+    cursor: pointer;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: white;
+}
+
+.span-chatbot:hover {
+    text-decoration: underline;
+}
+
+.spotify-container {
+    font-family: 'ailerons';
+    padding-top: 5px;
+    margin-top: 5px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    border-color: white;
+    border-style: solid;
+    border-width: 5px;
+}
