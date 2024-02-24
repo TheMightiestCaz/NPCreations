@@ -1,3 +1,43 @@
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px; /* Adjust as needed */
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li:hover {
+    background-color: lightgray;
+    color: white;
+}
+.twocolimg {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5px;
+}
+
+.image_card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 300px;
+    height: auto;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -29,6 +69,11 @@ section {
 
 h2 {
     color: #333;
+}
+
+#education-awards {
+    display: flex;
+    justify-content: space-evenly;
 }
 
 footer {
